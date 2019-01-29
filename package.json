@@ -10,10 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/cop1fab/Politico-final.git"
   },
-  "author": "",
+  "author": "Dr. Copain Fabrice",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cop1fab/Politico-final/issues"
   },
-  "homepage": "https://github.com/cop1fab/Politico-final#readme"
+  "homepage": "https://github.com/cop1fab/Politico-final#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-watch": "^2.0.8"
+  }
 }
