@@ -50,5 +50,3 @@ npm install npm@latest -g
   Dr. Copain Fabrice Bienaime
   
 ## Contributors 
-
-* Christian Jabiro
