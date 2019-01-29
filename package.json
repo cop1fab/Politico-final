@@ -1,0 +1,19 @@
+{
+  "name": "politico-final",
+  "version": "1.0.0",
+  "description": "An app that allows users to vote for political parties ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cop1fab/Politico-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cop1fab/Politico-final/issues"
+  },
+  "homepage": "https://github.com/cop1fab/Politico-final#readme"
+}
